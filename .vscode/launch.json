@@ -1,0 +1,14 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Spring Boot-NetworkApplication<network>",
+            "request": "launch",
+            "cwd": "${workspaceFolder}",
+            "mainClass": "com.deblabs.network.NetworkApplication",
+            "projectName": "network",
+            "args": "",
+            "envFile": "${workspaceFolder}/.env"
+        }
+    ]
+}
